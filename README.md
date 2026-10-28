@@ -93,8 +93,9 @@ The [`outputs/` folder](outputs/) contains screenshots documenting the LangSmith
 - [LangSmith trace screenshot 2](outputs/LangSmith_2.png)
 - [LangSmith trace screenshot 3](outputs/LangSmith_3.png)
 
-Judge result exports and the AI evaluation workbook are available at the project root:
+The project report, judge result exports, and AI evaluation workbook are available at the project root:
 
+- [Customer Support Agent Evaluation project report](Customer_Support_Agent_Evaluation_Project_Report.docx)
 - [LLM-only judge results](llm_j_llm_only_results.csv)
 - [Nebius Jev-style hybrid judge results](llm_j_jev_hybrid_results.csv)
 - [LLM-only vs. Jev-style comparison summary](llm_j_approach_comparison.csv)
