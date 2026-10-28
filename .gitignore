@@ -1,0 +1,10 @@
+.env
+.env.*
+*.env
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+node_modules/
+work/
+*.pyc

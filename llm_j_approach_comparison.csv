@@ -1,0 +1,3 @@
+Approach,Rows,Resolved,Unresolved,Coverage,Agreement among resolved,False positives,False negatives,Mean latency seconds,Qwen fallbacks,Qwen fallback rate,LLM input tokens,LLM output tokens,Nebius decision input tokens,Nebius decision output tokens,Estimated cost USD
+LLM-only baseline,12,12,0,1.0,1.0,0,0,1.6496666666666666,0,0.0,0.0,0.0,0.0,0.0,
+Nebius Jev-style hybrid,12,12,0,1.0,1.0,0,0,37.23650000000001,4,0.3333333333333333,0.0,0.0,4266.0,24.0,
